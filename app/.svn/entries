@@ -1,43 +1,0 @@
-9
-
-dir
-100
-svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/app
-svn+devlarry://deploy@larry.org/var/repos/larry.org
-
-
-
-2008-05-08T17:40:35.441682Z
-19
-deploy
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-e41378f2-52b1-4998-9115-5316bc6133cc
-
-helpers
-dir
-
-models
-dir
-
-controllers
-dir
-
-apis
-dir
-
-views
-dir
-

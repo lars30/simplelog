@@ -1,52 +1,0 @@
-9
-
-dir
-100
-svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/rails/activerecord/test/connections
-svn+devlarry://deploy@larry.org/var/repos/larry.org
-
-
-
-2008-01-17T06:06:54.315235Z
-2
-deploy
-
-
-svn:special svn:externals svn:needs-lock
-
-native_openbase
-dir
-
-native_sqlserver_odbc
-dir
-
-native_sqlite
-dir
-
-native_frontbase
-dir
-
-native_postgresql
-dir
-
-native_sqlite3
-dir
-
-native_mysql
-dir
-
-native_oracle
-dir
-
-native_firebird
-dir
-
-native_sqlserver
-dir
-
-native_sybase
-dir
-
-native_db2
-dir
-

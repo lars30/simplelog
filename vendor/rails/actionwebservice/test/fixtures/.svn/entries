@@ -1,31 +1,0 @@
-9
-
-dir
-100
-svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/rails/actionwebservice/test/fixtures
-svn+devlarry://deploy@larry.org/var/repos/larry.org
-
-
-
-2008-01-17T06:06:54.315235Z
-2
-deploy
-
-
-svn:special svn:externals svn:needs-lock
-
-db_definitions
-dir
-
-users.yml
-file
-
-
-
-
-2008-01-16T05:25:26.000000Z
-ef5081eb88a7052bca3b4d675321602b
-2008-01-17T06:06:54.315235Z
-2
-deploy
-

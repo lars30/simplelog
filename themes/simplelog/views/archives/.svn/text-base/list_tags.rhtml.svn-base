@@ -1,3 +1,0 @@
-<p>Here's a list of all tags available at this site, ordered alphabetically.</p>
-
-<%= Site.list_tags_linked(@tags, '', '') %>

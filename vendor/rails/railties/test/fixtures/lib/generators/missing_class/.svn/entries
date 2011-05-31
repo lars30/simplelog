@@ -1,31 +1,0 @@
-9
-
-dir
-100
-svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/rails/railties/test/fixtures/lib/generators/missing_class
-svn+devlarry://deploy@larry.org/var/repos/larry.org
-
-
-
-2008-01-17T06:06:54.315235Z
-2
-deploy
-
-
-svn:special svn:externals svn:needs-lock
-
-missing_class_generator.rb
-file
-
-
-
-
-2008-01-16T05:25:34.000000Z
-d41d8cd98f00b204e9800998ecf8427e
-2008-01-17T06:06:54.315235Z
-2
-deploy
-
-templates
-dir
-

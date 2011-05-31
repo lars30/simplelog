@@ -1,43 +1,0 @@
-9
-
-dir
-100
-svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/rails/railties/lib/rails_generator/generators/components/scaffold
-svn+devlarry://deploy@larry.org/var/repos/larry.org
-
-
-
-2008-01-17T06:06:54.315235Z
-2
-deploy
-
-
-svn:special svn:externals svn:needs-lock
-
-USAGE
-file
-
-
-
-
-2008-01-16T05:25:34.000000Z
-415e86562265a8bda5b993a696f00225
-2008-01-17T06:06:54.315235Z
-2
-deploy
-
-scaffold_generator.rb
-file
-
-
-
-
-2008-01-16T05:25:34.000000Z
-59ba4bb7411fdb598aef35713b55ef0c
-2008-01-17T06:06:54.315235Z
-2
-deploy
-
-templates
-dir
-

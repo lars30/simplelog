@@ -1,49 +1,0 @@
-9
-
-dir
-100
-svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/themes/simplelog/views
-svn+devlarry://deploy@larry.org/var/repos/larry.org
-
-
-
-2008-01-17T06:06:54.315235Z
-2
-deploy
-
-
-svn:special svn:externals svn:needs-lock
-
-pages
-dir
-
-archives
-dir
-
-search
-dir
-
-feeds
-dir
-
-includes
-dir
-
-posts
-dir
-
-errors
-dir
-
-index.rhtml
-file
-
-
-
-
-2008-01-16T05:26:22.000000Z
-fa1c3d3fdc817c66ccc912a904edc75d
-2008-01-17T06:06:54.315235Z
-2
-deploy
-
