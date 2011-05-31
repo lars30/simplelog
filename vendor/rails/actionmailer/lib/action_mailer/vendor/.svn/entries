@@ -1,0 +1,34 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/rails/actionmailer/lib/action_mailer/vendor
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+text
+dir
+
+tmail
+dir
+
+tmail.rb
+file
+
+
+
+
+2008-01-16T05:25:28.000000Z
+35c81708d8a2f7647c6f00988f4a5410
+2008-01-17T06:06:54.315235Z
+2
+deploy
+

@@ -1,0 +1,58 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/plugins/theme_support
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+LICENSE
+file
+
+
+
+
+2008-01-16T05:24:54.000000Z
+afb2b2154d7ac58e30810c947f408b08
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+init.rb
+file
+
+
+
+
+2008-01-16T05:24:54.000000Z
+e1db1463e7e7f67fc6d473a604fdcbb0
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+tasks
+dir
+
+lib
+dir
+
+README
+file
+
+
+
+
+2008-01-16T05:24:54.000000Z
+f5f0e2805178eb2d6749cd7e3e0b974a
+2008-01-17T06:06:54.315235Z
+2
+deploy
+

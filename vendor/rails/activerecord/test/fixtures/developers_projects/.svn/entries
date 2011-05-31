@@ -1,0 +1,52 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/rails/activerecord/test/fixtures/developers_projects
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+david_active_record
+file
+
+
+
+
+2008-01-16T05:25:00.000000Z
+2c8e3644a8753e7e9016496301c4a793
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+david_action_controller
+file
+
+
+
+
+2008-01-16T05:25:00.000000Z
+37e45a8d67e14abd8a006e0fea6543f2
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+jamis_active_record
+file
+
+
+
+
+2008-01-16T05:25:00.000000Z
+368cca279a527f91153c104c16adace5
+2008-01-17T06:06:54.315235Z
+2
+deploy
+

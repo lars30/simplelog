@@ -1,0 +1,67 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/app/views/admin
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2008-01-18T15:36:23.505257Z
+17
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e41378f2-52b1-4998-9115-5316bc6133cc
+
+pages
+dir
+
+prefs
+dir
+
+authors
+dir
+
+comments
+dir
+
+blacklist
+dir
+
+login
+dir
+
+posts
+dir
+
+misc
+dir
+
+index.rhtml
+file
+
+
+
+
+2008-01-16T05:24:52.000000Z
+f3a007c93b16ac2b0f33858685776b8c
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+tags
+dir
+

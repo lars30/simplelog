@@ -1,0 +1,28 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/rails/activesupport/lib/active_support/multibyte/generators
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+generate_tables.rb
+file
+
+
+
+
+2008-01-16T05:25:31.000000Z
+4b323b79afc4f1d6e0f805f90d63c02e
+2008-01-17T06:06:54.315235Z
+2
+deploy
+

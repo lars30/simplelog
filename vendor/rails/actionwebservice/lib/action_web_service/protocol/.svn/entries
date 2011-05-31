@@ -1,0 +1,67 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/rails/actionwebservice/lib/action_web_service/protocol
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+soap_protocol
+dir
+
+abstract.rb
+file
+
+
+
+
+2008-01-16T05:25:25.000000Z
+bb1c4174455cc482b23bc833d5411fd9
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+soap_protocol.rb
+file
+
+
+
+
+2008-01-16T05:25:25.000000Z
+2bc22abbd746c9bdb06f884820ab5ce0
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+xmlrpc_protocol.rb
+file
+
+
+
+
+2008-01-16T05:25:25.000000Z
+97d2bae9c810525432407199dc45d69c
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+discovery.rb
+file
+
+
+
+
+2008-01-16T05:25:25.000000Z
+acbeabd2ab45fd54da4cd9f43560dfcb
+2008-01-17T06:06:54.315235Z
+2
+deploy
+

@@ -1,0 +1,46 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/themes
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2011-04-06T20:59:16.271490Z
+100
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e41378f2-52b1-4998-9115-5316bc6133cc
+
+grid_focus
+dir
+
+THEME_CHANGES_IN_2.X
+file
+
+
+
+
+2008-01-16T05:26:22.000000Z
+ea78b6b965227d44331c73d9d40dc2c4
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+simplelog
+dir
+

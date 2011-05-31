@@ -1,0 +1,31 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/rails/actionwebservice/lib
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+action_web_service
+dir
+
+action_web_service.rb
+file
+
+
+
+
+2008-01-16T05:25:26.000000Z
+e19bc66ff9faf053e053e93859a50645
+2008-01-17T06:06:54.315235Z
+2
+deploy
+

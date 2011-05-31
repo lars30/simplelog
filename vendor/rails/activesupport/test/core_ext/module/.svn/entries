@@ -1,0 +1,40 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/rails/activesupport/test/core_ext/module
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+attr_internal_test.rb
+file
+
+
+
+
+2008-01-16T05:25:32.000000Z
+f7ee90a48dccdf3a862124daa0cc20c1
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+attribute_aliasing_test.rb
+file
+
+
+
+
+2008-01-16T05:25:32.000000Z
+01b4842cd0030b761a8b57e1dce71a6b
+2008-01-17T06:06:54.315235Z
+2
+deploy
+

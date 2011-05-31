@@ -1,0 +1,5 @@
+<%# loop through and show posts -%>
+<div id="main"></div>
+<% for post in @posts -%>
+    <%= render :partial => 'posts/item', :locals => {:post => post} %>
+<% end -%>

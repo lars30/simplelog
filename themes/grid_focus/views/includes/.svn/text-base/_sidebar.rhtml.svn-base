@@ -1,0 +1,47 @@
+<div id="sideCol">
+  <%= render :partial => 'includes/searchform' %>
+  <div class="side_links">
+    <h3>My Latest Twitter Posts</h3>
+    <ul id="twitter_update_list"></ul>
+    <a href="http://twitter.com/lars30" id="twitter-link" style="display:block;text-align:right;">follow me on Twitter</a>
+    <h3>Here's the Photos!</h3>
+      <object type="application/x-shockwave-flash" data="/album.swf" width="400" height="325" name="album" align="middle" ><param name="movie" value="/album.swf" /><param name="FlashVars" value="playerMode=embedded allowScriptAccess=sameDomain" /></object>
+    <h3>Many ways to reach me</h3>
+    <table>
+      <tr><td class="widget"><a href="http://www.linkedin.com/in/larrycummings" ><img src="http://www.linkedin.com/img/webpromo/btn_viewmy_160x25.gif" width="160" height="25" border="0" alt="View Larry Cummings's profile on LinkedIn" /></a></td></tr>
+      <tr><td class="widget"><object type="application/x-shockwave-flash" data="https://clients4.google.com/voice/embed/webCallButton" width="230" height="85"><param name="movie" value="https://clients4.google.com/voice/embed/webCallButton" /><param name="wmode" value="transparent" /><param name="FlashVars" value="id=505b67b50f49445501865be8a290d5478e06dca5&style=0" /></object></td></tr>
+      <tr><td class="widget"><a href="http://www.facebook.com/p/Larry_Cummings/534685139" title="Larry Cummings Facebook profile"><img src="http://badge.facebook.com/badge/534685139.291.2135789261.png" border="0" alt="Larry Cummings Facebook profile" /></a></td></tr>
+    </table>
+    <h3>My Projects and Pages</h3>
+    <a href="http://www.localfirstaz.com"><img src="http://www.localfirstaz.com/banners/local/local-300x100-3to1-rectangle.gif" alt="Local First Arizona" title="Local First Arizona" width="300" height="100" /></a>
+    <h3>What else I've been up to</h3>
+    <h4>Personal</h4>
+    <ul>
+      <li><a href="http://www.beatitudeschurch.org/">Church of the Beatitudes</a> - Where I go to church (and sing in the choir)</li>
+      <li><a href="http://www.shadowbox.com/">Shadowbox.com</a> - The consultancy I will run when I retire</li>
+    </ul>
+    <h4>Blogs Friends of mine write</h4>
+    <ul>
+      <li><a href="http://www.ramenlabs.com">ramenlabs</a> A developers blog</li>
+      <li><a href="http://www.zooglobble.com/" >ZooGlobble</a> - Kids and family music news and reviews - Kids music worth sharing</li>
+      <li><a href="http://laragoesblogging.blogspot.com/">Lara Goes Blogging</a></li>
+    </ul>
+    <h4>Company's I liked enough to work for</h4>
+    <ul>
+      <li><a href="http://www.figment.cc/">Figment</a> - A side project I enjoy working on.</li>
+      <li><a href="http://earth911.com">Earth911</a> - Where I work now</li>
+      <li><a href="http://www.seeitourway.org/" >The Foundation for Blind Children</a> - My last job, and an organization I still do some volunteer work for</li>
+      <li><a href="http://www.centerdoar.org">Beatitudes Center DOAR</a> - A non-profit I recently served on the board of</li>
+    </ul>
+    <h4>Also See...</h4>
+    <%= Site.delicious_info %>
+    <h3>Subscribe</h3>
+    <p>Stay updated on my meandering thoughts &amp; activities via RSS (Syndicate).</p>
+    <ul>
+      <li><a href="<%= Site.rss_url %>" title="Full content RSS feed">Content RSS</a> - Subscribe to my feed</li>
+    </ul>
+    <%# please don't remove this! -%>
+    <p><%= Site.powered_by_link %></p>
+    <%# please don't remove this! -%>
+  </div>
+</div>

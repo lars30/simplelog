@@ -1,0 +1,55 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/plugins/akismetor
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2008-01-18T15:36:23.505257Z
+17
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+init.rb
+file
+
+
+
+
+2007-08-04T23:54:48.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2008-01-18T15:36:23.505257Z
+17
+deploy
+
+lib
+dir
+
+MIT_LICENSE
+file
+
+
+
+
+2007-08-04T19:24:50.000000Z
+8967a6801e5f86dee368338a8d1f987e
+2008-01-18T15:36:23.505257Z
+17
+deploy
+
+README
+file
+
+
+
+
+2007-08-06T08:08:21.000000Z
+bc15363a75f07a738b0ec1242ccf2aa4
+2008-01-18T15:36:23.505257Z
+17
+deploy
+

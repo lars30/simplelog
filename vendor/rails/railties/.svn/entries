@@ -1,0 +1,106 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/rails/railties
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2008-01-16T05:25:34.000000Z
+6065e22e102ff1b64dec542f962d9a50
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+environments
+dir
+
+dispatches
+dir
+
+CHANGELOG
+file
+
+
+
+
+2008-01-16T05:25:34.000000Z
+4822148d335f2aa63123fca3de57afa7
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+configs
+dir
+
+README
+file
+
+
+
+
+2008-01-16T05:25:34.000000Z
+2ffe7715fd6ba5509508a29022c22a17
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+helpers
+dir
+
+html
+dir
+
+doc
+dir
+
+lib
+dir
+
+builtin
+dir
+
+bin
+dir
+
+MIT-LICENSE
+file
+
+
+
+
+2008-01-16T05:25:34.000000Z
+f764e1184ad8e4b928e3fe1f60248b7d
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+fresh_rakefile
+file
+
+
+
+
+2008-01-16T05:25:34.000000Z
+17f2f134da4cd31ea095d5868ca89e86
+2008-01-17T06:06:54.315235Z
+2
+deploy
+

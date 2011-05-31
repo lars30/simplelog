@@ -1,0 +1,64 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/app/apis
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+blogger_service.rb
+file
+
+
+
+
+2008-01-16T05:24:46.000000Z
+76392516305ce66d767fe5774742b9e9
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+meta_weblog_service.rb
+file
+
+
+
+
+2008-01-16T05:24:46.000000Z
+536fa382b0ac73dffd1404e71d97891a
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+movable_type_service.rb
+file
+
+
+
+
+2008-01-16T05:24:46.000000Z
+8ba98445638d41e75849ef70b746c10c
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+simplelog_web_service.rb
+file
+
+
+
+
+2008-01-16T05:24:46.000000Z
+9a287b427c9acbf83eb7cd5b0bf7eada
+2008-01-17T06:06:54.315235Z
+2
+deploy
+

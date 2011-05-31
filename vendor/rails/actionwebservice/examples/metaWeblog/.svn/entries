@@ -1,0 +1,34 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/rails/actionwebservice/examples/metaWeblog
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+controllers
+dir
+
+apis
+dir
+
+README
+file
+
+
+
+
+2008-01-16T05:25:27.000000Z
+8734a6e4b484f1c6bd83365f3f03a4eb
+2008-01-17T06:06:54.315235Z
+2
+deploy
+

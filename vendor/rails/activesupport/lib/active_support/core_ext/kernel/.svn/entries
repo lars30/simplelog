@@ -1,0 +1,64 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/rails/activesupport/lib/active_support/core_ext/kernel
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+requires.rb
+file
+
+
+
+
+2008-01-16T05:25:31.000000Z
+a5c9952f81268cee5835ea6578a424f7
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+daemonizing.rb
+file
+
+
+
+
+2008-01-16T05:25:31.000000Z
+c0b126fa8c5e45b5b5abf181d8e94b0f
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+reporting.rb
+file
+
+
+
+
+2008-01-16T05:25:31.000000Z
+81b191187195ce08e6d0de4fa0475fb7
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+agnostics.rb
+file
+
+
+
+
+2008-01-16T05:25:31.000000Z
+83999ea00aeb8b51a1aa5e312571ac2a
+2008-01-17T06:06:54.315235Z
+2
+deploy
+

@@ -1,0 +1,29 @@
+<% if @posts and @posts.length > 0 -%>
+<%# there were posts returned by this search -%>
+<div id="main"></div>
+<div class="post">
+	<h2><%= pluralize(@posts.length, 'post') %> found matching search:</h2>
+</div>
+
+<% @posts.each do |post| -%>
+<div class="post" id="post-<%= post.id %>">
+	<div class="postMeta"><span class="date"><%= date_time(post) %></span><% if Site.comment_system_on %><span class="comments"><%= post.comments.length == 0 ? "No Comments" : pluralize(post.comments.length, 'Comment') %></span><% end %></div>
+	<h2><a href="<%= Post.permalink(post) %>" title="<%= my_delicious_title(post.title) %>"><%= post.title %></a></h2>
+	<div class="entry">
+		<p><%= post_excerpt(post) %></p>
+	</div>
+</div>
+<% end -%>
+
+<% else -%>
+<% # no results, return message %>
+<div id="main"></div>
+<div class="post">
+	<div class="postMeta"><span class="date">No Matches</span></div>
+	<h2>No matching results</h2>
+	<div class="entry">
+		<p>There were no results, sorry. Try a different query or browse the archives.</p>
+	</div>
+</div>
+
+<% end -%>

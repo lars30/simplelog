@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>My list of Flickr RSS feeds</title>
+  </head>
+  <body>
+	<outline xmlUrl="http://api.flickr.com/services/feeds/photos_public.gne?id=31509111@N00&amp;lang=en-us&format=rss" />
+  </body>
+</opml>

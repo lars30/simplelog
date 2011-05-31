@@ -1,0 +1,40 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/rails/actionwebservice/test/apis
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+auto_load_api.rb
+file
+
+
+
+
+2008-01-16T05:25:26.000000Z
+ac560a676e964ca883ad5025b9949fb3
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+broken_auto_load_api.rb
+file
+
+
+
+
+2008-01-16T05:25:26.000000Z
+e1c06d85ae7b8b032bef47e42e4c08f9
+2008-01-17T06:06:54.315235Z
+2
+deploy
+

@@ -1,0 +1,40 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/vendor/plugins/larryDOTorg.org/recipes
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2008-01-17T08:50:32.767118Z
+15
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e41378f2-52b1-4998-9115-5316bc6133cc
+
+larryDOTorg.rb
+file
+
+
+
+
+2008-01-17T08:49:55.000000Z
+35c7655ffcecf6ee1b90e4fb020b22e2
+2008-01-17T08:50:32.767118Z
+15
+deploy
+

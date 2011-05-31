@@ -1,0 +1,28 @@
+9
+
+dir
+100
+svn+devlarry://deploy@larry.org/var/repos/larry.org/trunk/db/importers
+svn+devlarry://deploy@larry.org/var/repos/larry.org
+
+
+
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
+
+svn:special svn:externals svn:needs-lock
+
+mt.rb
+file
+
+
+
+
+2008-01-16T05:25:34.000000Z
+0b8508d5e4b5998cdb693fbc2f913602
+2008-01-17T06:06:54.315235Z
+2
+deploy
+
